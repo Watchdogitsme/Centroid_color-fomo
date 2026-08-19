@@ -3,6 +3,7 @@ detects the color and is built with fomo so it can run on small size computers l
 
 to run on windows 
 pip install torch torchvision opencv-python numpy
+
 python live_feed.py
 
 to run on linux
